@@ -20,7 +20,6 @@ li {
 /* Стиль для контейнера зображення */
 #imageContainer {
   margin-top: 20px;
-  text-align: center;
 }
 
 #imageContainer img {
